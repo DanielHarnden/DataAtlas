@@ -1,0 +1,1 @@
+python .\Database\stopDataAtlas.py

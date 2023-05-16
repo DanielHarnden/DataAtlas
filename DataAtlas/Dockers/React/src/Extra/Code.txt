@@ -1,0 +1,82 @@
+    <div className="App">
+      <div classname="login">
+      <header className="App-header">
+        <img src="../images/SAICMotor_logo.png" alt="logo" width={300} height={300} />
+        <h1 className="Title">
+         SAIC Data Atlas
+        </h1>
+        
+        <div className="input1">
+        <input onChange={change}
+        value={val}/>
+        </div>
+        <div className="input2">
+        <input onChange={change}
+        value={val1}/>
+        </div>
+        <div className="input3">
+        <button onClick = {click}> Login </button>
+        <button onClick = {click}> Sign Up </button>
+        <button onClick = {click}> TestButton </button>
+        </div>
+      </header>
+      </div>
+      <div classname="userinterface">
+
+      </div>
+    </div>
+
+
+      const [val, setVal] = useState("Username")
+  const [val1, setVal2] = useState("Password")
+  const click = () => {
+    alert(val)
+    alert(val1)
+  }
+  const change = () => {
+   setVal()
+   setVal2()
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  import './App.css';
+import { Login } from './Login'
+import { Register } from './Register'
+import { Dashboard } from './Dashboard'
+import React, {useState} from "react";
+
+
+function App() {
+  const [currentForm, setCurrentForm] = useState('login')
+  const [newForm, setNewForm] = useState('dashboard')
+
+  const toggleForm = (formName) => {
+    setCurrentForm(formName);
+  }
+  const toggleSignOut = (formName) => {
+    setNewForm(formName);
+  }
+ 
+  return (
+    <>
+    <div className="App">
+      {
+        currentForm == "login" ? <Login onFormSwitch={toggleForm}/> : <Register onFormSwitch={toggleForm}/>
+        
+      }
+    </div>
+    </>
+  );
+}
+
+export default App;

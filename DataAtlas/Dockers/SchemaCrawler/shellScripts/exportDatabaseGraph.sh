@@ -1,0 +1,1 @@
+/opt/schemacrawler/bin/schemacrawler.sh --server=sqlite --database=volume/databases/$1 --info-level=maximum --command=schema --output-format=png --output-file=/volume/generatedPngs/$1.png --quiet
