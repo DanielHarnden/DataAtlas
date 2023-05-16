@@ -1,0 +1,308 @@
+done :)
+Benjamin Ward authored 2 weeks ago
+ 
+Update README.md
+Benjamin Ward authored 2 weeks ago
+ 
+Upload New File
+Benjamin Ward authored 2 weeks ago
+ 
+Update README.md
+Benjamin Ward authored 2 weeks ago
+ 
+Update README.md
+Alexander Smith authored 2 weeks ago
+ 
+just making sure i put it in the right place
+Benjamin Ward authored 2 weeks ago
+ 
+Update README.md
+Alexander Smith authored 2 weeks ago
+ 
+NEW READ ME
+Michael Artt authored 2 weeks ago
+ 
+Update README.md
+Daniel Harnden authored 2 weeks ago
+ 
+Merge branch 'front-mid-api' into 'main' 
+Daniel Harnden authored 2 weeks ago
+ 
+nother update
+Daniel Harnden authored 2 weeks ago
+ 
+here jake try this
+Daniel Harnden authored 2 weeks ago
+ 
+ARANGO IS GONE
+Daniel Harnden authored 3 weeks ago
+ 
+Bug fixes
+Daniel Harnden authored 3 weeks ago
+ 
+mm
+Michael Artt authored 4 weeks ago
+ 
+css changes
+Michael Artt authored 4 weeks ago
+ 
+img update
+Michael Artt authored 4 weeks ago
+ 
+Merge branch 'front-mid-api' of... 
+Michael Artt authored 4 weeks ago
+ 
+updated css
+Michael Artt authored 4 weeks ago
+ 
+Fixed some MVP bugs
+Daniel Harnden authored 1 month ago
+ 
+Updated MVP
+Daniel Harnden authored 1 month ago
+ 
+Attempt to fix Flask-Cors importing error
+Daniel Harnden authored 1 month ago
+ 
+Updated Flask API
+Daniel Harnden authored 1 month ago
+ 
+changed dashboard css to better fit generated image (needs more work)
+Michael Artt authored 1 month ago
+ 
+Merge branch 'front-mid-api' of... 
+Michael Artt authored 1 month ago
+ 
+cool
+Michael Artt authored 1 month ago
+ 
+Updated documentation and upgraded mapping functionality
+Daniel Harnden authored 1 month ago
+ 
+pog
+Daniel Harnden authored 1 month ago
+ 
+for rhys
+Daniel Harnden authored 1 month ago
+ 
+Attempted to fix errors when running runDataAtlas
+Daniel Harnden authored 1 month ago
+ 
+Unfinished build but adds documentation
+Daniel Harnden authored 1 month ago
+ 
+Reorganized some stuff
+Daniel Harnden authored 1 month ago
+ 
+API Showcase
+Daniel Harnden authored 1 month ago
+
+API image call
+Daniel Harnden authored 1 month ago
+
+Slightly better API that still sucks
+Daniel Harnden authored 1 month ago
+ 
+Basic API that sucks
+Daniel Harnden authored 1 month ago
+ 
+Merge branch 'front-mid-api' of... 
+Michael Artt authored 1 month ago
+
+clean
+Michael Artt authored 1 month ago
+
+test
+Michael Artt authored 1 month ago
+ 
+Merge branch 'main' of gitlab.csc.tntech.edu:csc-4610-f22/group-07/data-atlas
+Michael Artt authored 1 month ago
+ 
+cleaning up commits
+Michael Artt authored 1 month ago
+ 
+Added test API
+Daniel Harnden authored 1 month ago
+
+Readded Docker networks to run/stop DataAtlas
+Daniel Harnden authored 1 month ago
+
+Changed buildDockers.bat to runDataAtlas.py
+Daniel Harnden authored 1 month ago
+ 
+Updated react app for main branch
+Michael Artt authored 1 month ago
+ 
+Merge branch 'feature-database-api' into 'main' 
+Daniel Harnden authored 1 month ago
+ 
+Merge branch 'main' into 'feature-database-api' 
+Daniel Harnden authored 1 month ago
+ 
+Creates seperate file for add_key to get it out of the API
+Avery Kerley authored 1 month ago
+ 
+Change the function calls to reference new add_key file
+Avery Kerley authored 1 month ago
+ 
+Remove function that should not have been in the api in the first place
+Avery Kerley authored 1 month ago
+ 
+Removes duplicates from being printed out
+Avery Kerley authored 1 month ago
+ 
+Attempted to connect SC, parser, and mapper
+Daniel Harnden authored 1 month ago
+ 
+Merge branch 'feature-database-api' of... 
+Avery Kerley authored 1 month ago
+ 
+Optimizes the searches to avoid redundancy and wasting time
+Avery Kerley authored 1 month ago
+ 
+Merge branch 'feature-database-api' of... 
+Daniel Harnden authored 1 month ago
+ 
+Added Rhys's text parser
+Daniel Harnden authored 1 month ago
+ 
+Adds a version of the Proof that looks far more like what SchemaCrawler may output
+Avery Kerley authored 1 month ago
+ 
+Merge branch 'feature-database-api' of... 
+Avery Kerley authored 1 month ago
+ 
+Implements changes from API and tests reference Database for having the correct values
+Avery Kerley authored 1 month ago
+ 
+Properly adds values to the database so it is key and 'definition' rather than definition to key
+Avery Kerley authored 1 month ago
+ 
+Fixes bad method of resolving database already existing; adds dict conversions... 
+Avery Kerley authored 1 month ago
+ 
+Adds test for the main 'get' api function
+Avery Kerley authored 1 month ago
+ 
+Creates safe space for data to be stored so it's not destroyed on reboot
+Daniel Harnden authored 1 month ago
+ 
+Makes progress towards more testing, and allows for testing of Reference Database
+Avery Kerley authored 1 month ago
+
+Makes the Reference Database work; fixes several minor bugs throughout the program
+Avery Kerley authored 1 month ago
+ 
+Adds Proof file in unfinished state; allows for practice for Benjamin
+Avery Kerley authored 2 months ago
+ 
+Explains what I mean to do in the future in a way others can understand
+Avery Kerley authored 2 months ago
+ 
+Ignores Python cache file from being added to repository
+Avery Kerley authored 2 months ago
+ 
+Fixes name issue; adds additional note about implementation
+Avery Kerley authored 2 months ago
+ 
+Adds the skeleton of the ReferenceDB addition code
+Avery Kerley authored 2 months ago
+ 
+Merges additions from both setups; looking into setting up MasterDB today
+Avery Kerley authored 2 months ago
+ 
+Starts the reference database implementation
+Jules Kerley authored 2 months ago
+ 
+Starts the process of getting entries from the database
+Avery Kerley authored 2 months ago
+ 
+Merge branch 'docker-network-generation' into 'main' 
+Daniel Harnden authored 2 months ago
+ 
+Reorganized files for merge with main
+Daniel Harnden authored 2 months ago
+ 
+Updated example output
+Daniel Harnden authored 2 months ago
+ 
+Added ability to save SC output to React Docker
+Daniel Harnden authored 2 months ago
+ 
+Added new shell script and documentation
+Daniel Harnden authored 2 months ago
+ 
+Adds a check system to allow for overwriting
+Avery Kerley authored 2 months ago
+ 
+Adds the basic API for creation of entries
+Avery Kerley authored 2 months ago
+ 
+Merge branch 'feature-arangodb-storing-presenting' into 'main' 
+Avery Kerley authored Feb 19, 2023
+ 
+Added a shell script callable outside of the docker that returns SchemaCrawler output
+Daniel Harnden authored Feb 17, 2023
+ 
+Added Dr. Jones' example data for testing in SchemaCrawler
+Daniel Harnden authored Feb 17, 2023
+ 
+Files are now copied into the SchemaCrawler docker upon startup
+Daniel Harnden authored Feb 16, 2023
+ 
+Added batch files for building, starting, and stopping all containers
+Daniel Harnden authored Feb 13, 2023
+
+Added all three dockers
+Daniel Harnden authored Feb 13, 2023
+ 
+Merge branch 'add-schemacrawler-docker' into 'main' 
+Daniel Harnden authored Feb 13, 2023
+ 
+Reorganized files for merge with main
+Daniel Harnden authored Feb 13, 2023
+ 
+Edited runSchemaCrawler.bat
+Daniel Harnden authored Feb 08, 2023
+ 
+Adds Proof of operational, storing database, including the ability to change parts of it if needed
+Avery Kerley authored Feb 06, 2023
+ 
+Merge branch 'bug-arangodb-bad-name' into 'main' 
+Avery Kerley authored Feb 06, 2023
+
+Deletes the container each time it exits for testing purposes
+Avery Kerley authored Feb 06, 2023
+ 
+Adds name to docker container to make the networking easier.
+Avery Kerley authored Feb 06, 2023
+ 
+added react docker to docker?
+Michael Artt authored Feb 02, 2023
+ 
+added react docker to dockers?
+Michael Artt authored Feb 02, 2023
+ 
+Merge branch 'add-arangodb-docker' into 'main' 
+Avery Kerley authored Feb 01, 2023
+ 
+Changed runSchemaCrawler from .sh to .bat
+Daniel Harnden authored Jan 31, 2023
+ 
+Swaps the .bat format as all of us are using Windows. Perhaps just various... 
+Avery Kerley authored Jan 30, 2023
+ 
+Adds SchemaCrawler dockerfile and shell script to run it
+Daniel Harnden authored Jan 29, 2023
+ 
+Adds a proof of concept that verifies that the database works as intended
+Avery Kerley authored Jan 27, 2023
+ 
+Explains the next feature needed for functional ArangoDB docker
+Avery Kerley authored Jan 25, 2023
+ 
+Starts the basic folder structure of Docker; begins work on arangodb docker
+Avery Kerley authored Jan 25, 2023
+ 
+Initial commit
+Avery Kerley authored Jan 25, 2023
